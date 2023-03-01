@@ -21,6 +21,10 @@
 <a href="https://www.linkedin.com/in/asif-hussain-khan-86a645220/">
   <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+
+
+
 </div>
 <br />
 <p align="center">
@@ -62,25 +66,18 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
 ### :hammer_and_wrench: Languages and Tools :
 
 
-<p align="center">
+<p align="left">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/pycharmj.svg" alt="html" style="vertical-align:top; margin:4px"> 
                                                                                                                          <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/python.svg" alt="html" style="vertical-align:top; margin:4px"> 
-                                                                                                                         <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/pytorch.svg" alt="html" style="vertical-align:top; margin:4px">                                                                                                    <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="html" style="vertical-align:top; margin:4px"> 
-
+                                                                                                                         <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/pytorch.svg" alt="html" style="vertical-align:top; margin:4px">                                                                                                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="html"  width="40" height="50" style="vertical-align:top; margin:4px">
+                                                                                                                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" alt="html"  width="40" height="50" style="vertical-align:top; margin:4px"> 
+                                                                                                                         
 </p>
 
 
 
-<div align="left">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="Java" alt="Java" width="40" height="50"/>&nbsp;
-  
-</div>  
- 
+
 --- 
 ### :fire: My Stats :
 
