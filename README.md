@@ -61,6 +61,16 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
 ---
 ### :hammer_and_wrench: Languages and Tools :
 
+
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/pycharmj.svg" alt="html" style="vertical-align:top; margin:4px"> 
+                                                                                                                         <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/python.svg" alt="html" style="vertical-align:top; margin:4px"> 
+
+</p>
+
+
+
 <div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
