@@ -66,6 +66,7 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
   <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/pycharmj.svg" alt="html" style="vertical-align:top; margin:4px"> 
                                                                                                                          <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/python.svg" alt="html" style="vertical-align:top; margin:4px"> 
+                                                                                                                         <img src="https://raw.githubusercontent.com/asifhkhan/asifhkhan/master/svg/pytorch.svg" alt="html" style="vertical-align:top; margin:4px"> 
 
 </p>
 
