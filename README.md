@@ -22,14 +22,19 @@
   <img align="center" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 </div>
-
 <br />
-
-<div id="badges" align="center">
-   </a>
-  <img src="https://komarev.com/ghpvc/?username=asifhkhan&style=flat-square&color=blue" alt=""/>
+<p align="center">
+  
+  
+  <a href="https://github.com/asifhkhan?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/asifhkhan?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+  <a href="https://github.com/asifhkhan?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/asifhkhan?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=asifhkhan&style=for-the-badge&labelColor=488207&logo=eye" alt=""/>
     </a>
-</div>
+</p>
+
 </h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
