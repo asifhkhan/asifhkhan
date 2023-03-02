@@ -85,8 +85,6 @@ I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/gi
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=asifhkhan&show_icons=true&include_all_commits=true&theme=radical" alt="asif's github stats" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifhkhan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
                                                                                      
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asifhkhan&theme=github_dark)
 
