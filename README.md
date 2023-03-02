@@ -48,7 +48,7 @@
 
 ---
 ### :man_technologist: About Me :
-I am currently a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30">  at [MLP Lab](https://machinelearning.uniud.it/) in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy. 
+I am currently a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30">  at [Computer Vision Lab](https://machinelearning.uniud.it/) in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy. 
 
 
 - :telescope: I mainly focus on low-level vision research, especially on image restoration includes Image Super Resolution, Image Denoising and Image Deblurring.
@@ -57,7 +57,7 @@ I am currently a PhD Student <img src="https://media.giphy.com/media/hENzElhl495
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hussain-khan-86a645220/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asif-hussain-khan-86a645220/)
 
 
 
