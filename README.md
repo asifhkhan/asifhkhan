@@ -48,10 +48,10 @@
 
 ---
 ### :man_technologist: About Me :
-I am a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30"> in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy.
+I am currently a PhD Student <img src="https://media.giphy.com/media/hENzElhl495Xl0WQAv/giphy.gif" width="30">  at [MLP Lab](https://machinelearning.uniud.it/) in Department of Mathematics <img src="https://media.giphy.com/media/zPbnEgxsPJOJSD3qfr/giphy.gif" width="30"> , Computer Science <img src="https://media.giphy.com/media/D0TWLl6wTW0KrQAEcf/giphy.gif" width="30"> and Physics at University of udine, Italy. 
 
 
-- :telescope: I am working on Low Level Vision problem includes Image Super Resolution, Image Denoising and     Image Deblurring.
+- :telescope: I mainly focus on low-level vision research, especially on image restoration includes Image Super Resolution, Image Denoising and Image Deblurring.
 
 - :seedling: Exploring Technical Content Writing.
 
